@@ -1,1 +1,3 @@
-#imageGallery.github.io
+# imageGallery.github.io
+
+Discover my gallery app
